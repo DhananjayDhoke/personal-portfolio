@@ -34,7 +34,7 @@ export const Projects = () => {
                 <div className="project">
                   <div className="project_videocontainer">
                     <div data-aos="fade-right">
-                      <img src={elem.src} alt="Boatlifestyle_clone" />
+                      <img src={elem.src} alt={elem.name} />
                     </div>
                   </div>
                   <div className="project_information" data-aos="fade-right">

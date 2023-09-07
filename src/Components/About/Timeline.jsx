@@ -59,7 +59,8 @@ export const Timeline = () => {
               Indusnet Technologies
             </h4>
             <p data-aos="fade-right">
-              Design Full stack projects.
+            Experienced MERN Stack Developer with proficiency in building scalable web applications. Successfully developed a Dedupe application for identifying and eliminating duplicate data. Additionally,
+            contributed to an Employee Management system for efficient personnel administration.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement

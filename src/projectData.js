@@ -22,7 +22,7 @@ const data = [
   },
   {
     name: "Blogging Application",
-    src: "https://shoppy.b-cdn.net/wp-content/uploads/2020/07/Blog-Application.png",
+    src: "https://cdn.punchng.com/wp-content/uploads/2017/03/09025029/blog-what-it-is.jpg",
     des: "It is Backend of a blogging application where users can do Authentication and Authorization ,write blogs and articles and comment on blogs/articles  ",
     live: "https://github.com/DhananjayDhoke/bloggingApp",
     git: "https://github.com/DhananjayDhoke/bloggingApp",
